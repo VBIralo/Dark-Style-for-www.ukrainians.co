@@ -1,14 +1,14 @@
-# Dark-Style-for-www.ukrainians.co
+# Dark Style for www.ukrainians.co
 Dark Style for site [Ukrainians.co](https://www.ukrainians.co)
 
-![](./scr1.png)
+![](./screenshots/scr1.png)
 
 Dark theme for the site [Ukrainians.co](https://www.ukrainians.co)
 It is not yet over, it's not strictly judged
 
 ## Screenshots
 
-![](./scr1.png) (./scr2.png) (./scr3.png) (./scr4.png) (./scr5.png)
+![](./screenshots/scr1.png) ![](./screenshots/scr2.png) ![](./screenshots/scr3.png) ![](./screenshots/scr4.png) ![](./screenshots/scr5.png)
 
 ## Questions
 
